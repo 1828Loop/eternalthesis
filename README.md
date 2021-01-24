@@ -1,1 +1,4 @@
-# eternalthesis
+# infinitethesis
+
+This thesis describes in a novel relationship between architects and machines made possible today by the advances in neural networks and supervised learning algorithms.
+The body of this thesis is a handbook outlining the practical work flow for the posthuman architect working in symbiosis with neural networks of their own design. Primarily the architect will be inspired by their AI companion as a muse to an artist and the AI will learn from the architect as an artisan’s apprentice. However the relationship could be seen more as that between a budding witch and her familiar as the architecture student begins their studies with this handbook to create their AI counterpart, to learn together, grow together and inspire each other. This handbook is a technical manual for the creation of the neural network by tutorial and further reading, the curation and preparation of datasets used to train the network, the description of a work flow that the architecture student might start with to produce work in collaboration with the AI.  
