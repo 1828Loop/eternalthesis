@@ -9,10 +9,14 @@ u=c*message_multiplier
 inertial_frame_multiplier=0.99
 V=c*inertial_frame_multiplier
 
+##TOLMANS THOUGHT EXPERIMENT
 #time in seconds the message is recieved after the event of sending
 def Ts(u,V,c):
 	time=(1-((u*V)/c**2))/((1-(V**2/c**2))**0.5)
 	return time
+##
 
+#activate thought experiment with variables
 T2 = Ts(u,V,c)
+#print results (if result is negative - it represents that the message is recieved before it was sent)
 print(T2)
